@@ -84,7 +84,12 @@
 %p
   M3ではハッカソンやアイデアソンなどのイベントなどのイベントも積極的に開催しています。
 
-%p= link_to '2015/04 アイデアソン', '/events/ideathon/201504.html', target: '_blank'
+%p
+  .row
+    .col-md-4
+      = link_to '/events/ideathon/201504.html' do
+        %img{src: '/images/events/ideathon/final.jpg'}
+        %p.text-center 2015/04 アイデアソン
 
 %h4
   %i.glyphicon.glyphicon-heart
