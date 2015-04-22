@@ -1,16 +1,18 @@
 .events-ideathon-201504 {
   // STEP番号カラム
   .step-column {
+    font-weight: bold;
+    margin-top: 10px;
     width: 100px;
-  }
-
-  // 時間カラム
-  .time-column {
-    width: 80px;
   }
 
   // 説明文章
   .description {
     color: #666;
+    margin-bottom: 10px;
+  }
+
+  .photos {
+    margin-bottom: 10px;
   }
 }

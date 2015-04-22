@@ -16,7 +16,7 @@
           %p
             アイデアソンは、2時間の中で「個人のアイデア出し⇒チームでまとめ」の作業を繰りを行うのスタイルでした。
             %br/
-            次のようなタイムスケジュールで、アイデアソンを実施しました。
+            次のような流れで、アイデアソンを実施しました。
 
       .row
         %table.table.table-striped
@@ -28,7 +28,7 @@
                   自己紹介（チーム内　各自）
                 .row.description
                   まずはアイスブレイクで、チーム内で自己紹介。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step0/#{i}.jpg"}
@@ -39,7 +39,7 @@
                   デバイス・ペルソナ・シーン決定
                 .row.description
                   チームで今回のアイデアソンで、誰の(ペルソナ)、どのようなシーンに必要なものを考えるかを決めます。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step1/#{i}.jpg"}
@@ -50,7 +50,7 @@
                   アイデア出し（個人）
                 .row.description
                   アイデアを一人２つ、附箋に書きだします。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step2/#{i}.jpg"}
@@ -61,7 +61,7 @@
                   アイデア発表（全員 => チームに）
                 .row.description
                   一人ひとりが書きだしたアイデアをグループ内で発表します。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step3/#{i}.jpg"}
@@ -72,7 +72,7 @@
                   再度アイデア出し（個人）
                 .row.description
                   チームメンバーのアイデアをヒアリングして、ブラッシュアップしたアイデアを附箋に書きだします。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step4/#{i}.jpg"}
@@ -83,7 +83,7 @@
                   効果・開発難易度を考慮しつつアイデア発表（全員）
                 .row.description
                   書き出したアイデアを書いた附箋を、価値と技術の難易度を考慮しつつ、効果(価値)と開発難易度(実現可能性)の2軸で票に貼り付けます。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step5/#{i}.jpg"}
@@ -94,7 +94,7 @@
                   チーム内投票（全員）
                 .row.description
                   １人２票で、いいと思うものにチェックを付けて、チームのアイデアとして発表するものを決めます。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step6/#{i}.jpg"}
@@ -105,7 +105,7 @@
                   発表準備（全員）
                 .row.description
                   発表するための資料を作成します。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step7/#{i}.jpg"}
@@ -116,7 +116,7 @@
                   発表
                 .row.description
                   チームごとに、作成したアイデアを他のメンバーに発表します。
-                .row
+                .row.photos
                   - 1.upto(3).each do |i|
                     .col-md-4
                       %img{src: "/images/events/ideathon/step8/#{i}.jpg"}
@@ -146,4 +146,17 @@
 
       .row
         .col-md-8
-          %img{src: '/images/events/ideathon/final.jpg'}
+          %img{src: '/images/events/ideathon/group.jpg'}
+
+      .row
+        %h2 We're hiring!
+
+        %p
+          %strong
+            M3ではアイデアソンが大好きなプランナーやハッカーを積極的に募集しています。
+            %br/
+            書類選考の前にエムスリーのことを知っていただくためにカジュアルな面談も可能です。
+            %br/
+            現在募集中の職種は
+            %a{href: 'http://corporate.m3.com/recruit/job/', target: '_blank'} こちら
+            です。
