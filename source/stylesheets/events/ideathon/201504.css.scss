@@ -1,13 +1,24 @@
 .events-ideathon-201504 {
-  // STEP番号カラム
-  .step-column {
+  // common
+  .text-strong {
     font-weight: bold;
-    margin-top: 10px;
-    width: 100px;
   }
 
-  .step-title {
+
+  // STEPのテーブルの格納されたセクション
+  .step-container {
+    // STEP番号カラム
+    .step-column {
+      font-weight: bold;
+      margin-top: 10px;
+      width: 100px;
+    }
+  }
+
+  .point-title {
+    font-size: 16px;
     font-weight: bold;
+    margin: 20px 0;
   }
 
   // 説明文章
