@@ -7,6 +7,7 @@
     <!-- Use title if it's in the page YAML frontmatter -->
     %title
       = current_page.data.title || "Tech side of M3"
+    %meta{:name => 'description', :content => current_page.data.description || 'エムスリー株式会社(M3)の技術的な取り組みについて紹介していきます。社内技術発表会の「M3 Tech Talk」を開催したり、GitHubなどでのオープンソースなどに積極的に貢献しています。' }
     %link{rel:'stylesheet', href:'//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css'}
     = stylesheet_link_tag 'all'
   %body
