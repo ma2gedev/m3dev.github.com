@@ -4,7 +4,6 @@
     font-weight: bold;
   }
 
-
   // STEPのテーブルの格納されたセクション
   .step-container {
     // STEP番号カラム
@@ -12,6 +11,12 @@
       font-weight: bold;
       margin-top: 10px;
       width: 100px;
+    }
+  }
+
+  .idea-introduction {
+    li {
+      margin: 15px 0;
     }
   }
 
