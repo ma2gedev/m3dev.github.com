@@ -78,6 +78,20 @@
 %p= link_to 'Doorkeeper での紹介ページ', 'http://www.doorkeeper.jp/%E4%BC%9A%E5%A0%B4/m3', target: '_blank'
 
 %h4
+  %i.glyphicon.glyphicon-user
+  イベントページ
+
+%p
+  M3ではハッカソンやアイデアソンなどのイベントなどのイベントも積極的に開催しています。
+
+%p
+  .row
+    .col-md-4
+      = link_to '/events/ideathon/201504.html' do
+        %img{src: '/images/events/ideathon/group.jpg'}
+        %p.text-center 2015/04 アイデアソン
+
+%h4
   %i.glyphicon.glyphicon-heart
   OSS との関わり
 

@@ -7,6 +7,7 @@
     <!-- Use title if it's in the page YAML frontmatter -->
     %title
       = current_page.data.title || "Tech side of M3"
+    %meta{:name => 'description', :content => current_page.data.description || 'エムスリー株式会社(M3)の技術的な取り組みについて紹介していきます。社内技術発表会の「M3 Tech Talk」を開催したり、GitHubなどでのオープンソースなどに積極的に貢献しています。' }
     %link{rel:'stylesheet', href:'//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css'}
     = stylesheet_link_tag 'all'
   %body
@@ -15,8 +16,8 @@
         %div.content
           %h2
             %a{href:'/', border:'0px'}
-              = tag :img, src: "/images/logo_small.png", border: 0
-            = tag :img, src: "/images/title.png", border: 0
+              %img{src: '/images/logo_small.png', border: 0}
+            = tag :img, src: '/images/title.png', border: 0
           %p
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://m3dev.github.io#{current_page.url}" data-count="none" data-hashtags="m3dev">Tweet</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
