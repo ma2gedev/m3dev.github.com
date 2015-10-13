@@ -4,11 +4,41 @@
   type: slideshare
   source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/R3b8cvWEAzsyU" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/changeworlds/process-or-person" title="問題が起こった時に、変えるのは人かそれともプロセスか？" target="_blank">問題が起こった時に、変えるのは人かそれともプロセスか？</a> </strong> from <strong><a href="//www.slideshare.net/changeworlds" target="_blank">Takashi Takebayashi</a></strong> </div>'
 
+- title: Git の内部データ構造
+  by: shuhei
+  github_id: shuhei
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="0c8cf4ae375b490081fcb82eb633cdf7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: Types as tests
+  by: mauhiz
+  github_id: mauhiz
+  type: link
+  source: https://docs.google.com/presentation/d/1SK61-3WoEz9Np2LNBp2npdUib2tCuVdfxaISdUpUnM8/edit?usp=sharing
+
 - title: Getting to Plan B
   by: changeworld
   github_id: changeworld
   type: link
   source: http://changeworld.github.io/lt/m3techtalk41/#/
+
+- title: マイクロサービス運用の所感
+  by: seratch
+  github_id: seratch
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/6QJeD5fxWqGN8y" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/seratch/microservices-ops" title="マイクロサービス運用の所感 #m3dev" target="_blank">マイクロサービス運用の所感 #m3dev</a> </strong> from <strong><a href="//www.slideshare.net/seratch" target="_blank">Kazuhiro Sera</a></strong> </div>'
+
+- title: Ruby on Rails vs Phoenix Framework
+  by: ma2gedev
+  github_id: ma2gedev
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="a2122de5e3c04c0c91c58d066143df39" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: 新言語 Kotlin で Android プログラミング（DroidKaigi 再演）
+  by: ntaro
+  github_id: ntaro
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="fafade9e78a545999d1f284554a8b2b1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 - title: 定型作業を自動化する話
   by: changeworld
@@ -28,11 +58,35 @@
   type: link
   source: http://changeworld.github.io/lt/m3techtalk35/#/
 
+- title: 3分 gem クッキング
+  by: morizyun
+  github_id: morizyun
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/BXpAhrb90pUDFZ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/morizyun/3-gem" title="3分 gem クッキング" target="_blank">3分 gem クッキング</a> </strong> from <strong><a href="//www.slideshare.net/morizyun" target="_blank">Zyunnosuke Mori</a></strong> </div>'
+
+- title: What's this -- いまさら聞けない JavaScript の this
+  by: shuhei
+  github_id: shuhei
+  type: speakerdeck
+  source: <script async class="speakerdeck-embed" data-id="70a3d8004390013257d62242f16da36d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 - title: Guide to build a realtime application using Phoenix on Heroku
   by: ma2gedev
   github_id: ma2gedev
   type: speakerdeck
   source: <script async class="speakerdeck-embed" data-id="42325c7043100132eaee7680f69f8570" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- title: たぶんモダンな Web 開発
+  by: namutaka
+  github_id: namutaka
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/thhDrfiI6obTR0" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tak-nakamura/tech-tall-modernwebdev" title="多分モダンなWebアプリ開発" target="_blank">多分モダンなWebアプリ開発</a> </strong> from <strong><a href="//www.slideshare.net/tak-nakamura" target="_blank">tak-nakamura</a></strong> </div>'
+
+- title: Scala μ-benchmark “Trust no-one, bench everything.”
+  by: mauhiz
+  github_id: mauhiz
+  type: link
+  source: https://docs.google.com/presentation/d/1WyTLZsIaSTLStaTGD6xaZU3c9SOwTSg7MRkqJSrEvHo/edit?usp=sharing
 
 - title: Intro to RxScala
   by: lloydmeta
