@@ -1,10 +1,28 @@
+- title: 問題が起こった時、変えるのは人かそれともプロセスか？
+  by: changeworld
+  github_id: changeworld
+  type: slideshare
+  source: '<iframe src="//www.slideshare.net/slideshow/embed_code/key/R3b8cvWEAzsyU" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/changeworlds/process-or-person" title="問題が起こった時に、変えるのは人かそれともプロセスか？" target="_blank">問題が起こった時に、変えるのは人かそれともプロセスか？</a> </strong> from <strong><a href="//www.slideshare.net/changeworlds" target="_blank">Takashi Takebayashi</a></strong> </div>'
+
+- title: Getting to Plan B
+  by: changeworld
+  github_id: changeworld
+  type: link
+  source: http://changeworld.github.io/lt/m3techtalk41/#/
+
+- title: 定型作業を自動化する話
+  by: changeworld
+  github_id: changeworld
+  type: link
+  source: http://changeworld.github.io/lt/m3techtalk39/#/
+
 - title: 非エンジニアによるA/Bテスト
   by: changeworld
   github_id: changeworld
   type: link
   source: http://changeworld.github.io/lt/m3techtalk38/#/
 
-- title: REVEAL.JSとVISIO2PDFと自分と
+- title: reveal.jsとVisio2PDFと自分と
   by: changeworld
   github_id: changeworld
   type: link
