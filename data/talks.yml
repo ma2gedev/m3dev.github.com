@@ -13,14 +13,14 @@
 - title: Types as tests
   by: mauhiz
   github_id: mauhiz
-  type: link
-  source: https://docs.google.com/presentation/d/1SK61-3WoEz9Np2LNBp2npdUib2tCuVdfxaISdUpUnM8/edit?usp=sharing
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Types as tests" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1SK61-3WoEz9Np2LNBp2npdUib2tCuVdfxaISdUpUnM8%2Fedit%3Fusp%3Dsharing" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://docs.google.com/presentation/d/1SK61-3WoEz9Np2LNBp2npdUib2tCuVdfxaISdUpUnM8/edit?usp=sharing">docs.google.com</a></cite>'
 
 - title: Getting to Plan B
   by: changeworld
   github_id: changeworld
-  type: link
-  source: http://changeworld.github.io/lt/m3techtalk41/#/
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Getting to Plan B" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fchangeworld.github.io%2Flt%2Fm3techtalk41%2F%23%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://changeworld.github.io/lt/m3techtalk41/#/">changeworld.github.io</a></cite>'
 
 - title: マイクロサービス運用の所感
   by: seratch
@@ -43,20 +43,20 @@
 - title: 定型作業を自動化する話
   by: changeworld
   github_id: changeworld
-  type: link
-  source: http://changeworld.github.io/lt/m3techtalk39/#/
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="定型作業を自動化する話" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fchangeworld.github.io%2Flt%2Fm3techtalk39%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://changeworld.github.io/lt/m3techtalk39/#/">changeworld.github.io</a></cite>'
 
 - title: 非エンジニアによるA/Bテスト
   by: changeworld
   github_id: changeworld
-  type: link
-  source: http://changeworld.github.io/lt/m3techtalk38/#/
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="非エンジニアによるA/Bテスト" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fchangeworld.github.io%2Flt%2Fm3techtalk38%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://changeworld.github.io/lt/m3techtalk38/#/">changeworld.github.io</a></cite>'
 
 - title: reveal.jsとVisio2PDFと自分と
   by: changeworld
   github_id: changeworld
-  type: link
-  source: http://changeworld.github.io/lt/m3techtalk35/#/
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Reveal.jsとvisio2pdfと自分と" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fchangeworld.github.io%2Flt%2Fm3techtalk35%2F%23%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://changeworld.github.io/lt/m3techtalk35/#/">changeworld.github.io</a></cite>'
 
 - title: 3分 gem クッキング
   by: morizyun
@@ -85,8 +85,8 @@
 - title: Scala μ-benchmark “Trust no-one, bench everything.”
   by: mauhiz
   github_id: mauhiz
-  type: link
-  source: https://docs.google.com/presentation/d/1WyTLZsIaSTLStaTGD6xaZU3c9SOwTSg7MRkqJSrEvHo/edit?usp=sharing
+  type: html
+  source: '<iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Scala microbenchmarking" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1WyTLZsIaSTLStaTGD6xaZU3c9SOwTSg7MRkqJSrEvHo%2Fedit%3Fusp%3Dsharing" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://docs.google.com/presentation/d/1WyTLZsIaSTLStaTGD6xaZU3c9SOwTSg7MRkqJSrEvHo/edit?usp=sharing">docs.google.com</a></cite>'
 
 - title: Intro to RxScala
   by: lloydmeta
