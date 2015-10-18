@@ -27,6 +27,13 @@ bundle exec middleman server
 
 で http://localhost:4567/ にブラウザからアクセスできます。
 
+
+OS X El Capitan で [`'openssl/ssl.h' file not found` というエラーが出る場合は `bundle install` の前に以下を実行してください](http://stackoverflow.com/questions/30818391/gem-eventmachine-fatal-error-openssl-ssl-h-file-not-found)。
+
+```
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+```
+
 #### M3 Tech Talk
 
 発表のデータは `data/talks.yml` に追記してください。これをもとにページを生成します。
